@@ -9,7 +9,6 @@
 	<description>Citi 2nd interview - game of life</description>
 
 	<properties>
-		<java.version>1.8</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<start-class>com.citi.game.Main</start-class>
 	</properties>
